@@ -16,7 +16,7 @@ Link dẫn đến video:https://youtu.be/jptgNV7p-kg
 
 4.Các kỹ thuật được sử dụng trong chương trình
 
-Về cơ bản, chương trình đều sử dụng các kỹ thuật thôn dụng nhất như mảng,con trỏ, load ảnh, random, cấu trúc, lập trình hướng đối tượng, lớp, text, vvvv....
+Về cơ bản, chương trình đều sử dụng các kỹ thuật thông dụng nhất như mảng, con trỏ, load ảnh, random, cấu trúc, lập trình hướng đối tượng, lớp, text, vvvv....
 
 5,Hướng phát triển trò chơi
 Game được làm với nhưng cốt lõi co bản nhất của 1 tựa game FlappyBird thông dụng và phần đồ họa được nâng cấp. Vì vậy game còn rất nhiều nhưng hướng đi có thể phát triển như thay đổi map( ngày-đêm), tạo thêm chướng ngại vật, cho nhân vật chính là chú chim có thêm nhiều tính năng khác ngoài việc chỉ nhảy vượt chướng ngại vật đơn giản. Tuy nhiên việc hoàn thành 1 chương trình tầm trung đối với bản thân đã là 1 thành tịu đầu tiên để phát triển hướng đi về CNTT. Việc hoàn thành được dự án của mình giúp bản thân cải thiện được nhiều vấn đề còn thiếu trong việc lập trình cũng như trình bày của em.
