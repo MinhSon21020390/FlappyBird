@@ -7,6 +7,7 @@ Báo cáo kết quả thực hiện dự án cuối kỳ "FlappyBird"
 2.Mô tả chung
 
 -Game được lấy ý tưởng chính từ tựa game FlappyBird của Nguyễn Hà Đông với phần đồ họa đã được nâng cấp . Trò chơi cũng như một tựa game FlappyBird cơ bản ,đó là sừ dụng 1 phím để đưa chú chim tránh được vật cản. Mỗi vật cản vượt qua sẽ được 1 điểm. Hãy lấy cho mình số điểm cao nhất nhé.
+
 3.Các chức năng chính
 
 Trò chơi sẽ được tính điểm theo mỗi cột bạn vượt qua, nháy liên tục nút lên để chim nhảy lên và giữ thăng bằng để nó vượt qua cột một cách an toàn. Chương trình cũng đã được chỉnh sửa lại tính năng để dễ chơi, tiếp cận và phù hợp vs mọi người hơn bản gốc. Bạn có thể giữ nút lên để chim không vào quãng nghỉ rơi xuống. Game sẽ kết thúc khi nhân vật chạm vào phần cột hay nền đất. Sau đó game sẽ quay lại menu chính. Bạn có thể lựa chọn giữa việc chơi tiếp hoặc thoát game.
