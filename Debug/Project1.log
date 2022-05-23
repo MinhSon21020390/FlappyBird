@@ -1,0 +1,5 @@
+﻿  PlayerObject.cpp
+C:\Users\tranm\Downloads\FlappyBird\Project1\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+C:\Users\tranm\Downloads\FlappyBird\Project1\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+C:\Users\tranm\Downloads\FlappyBird\Project1\PlayerObject.cpp(57,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\tranm\Downloads\FlappyBird\Project1\Debug\Project1.exe
